@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2107a3dbeca0cf",
+        "id": "86983606cbf47572",
         "type": "tabs",
         "children": [
           {
-            "id": "c9dcd9b7990c0a3f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f270e1a18545f01b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "33daa91212b8db1f",
+            "id": "1c8d115f68a15bef",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33daa91212b8db1f",
+  "active": "1c8d115f68a15bef",
   "lastOpenFiles": [
     "test/_templates/Basic note.md",
     "test/_templates",
