@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f270e1a18545f01b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,10 +101,8 @@
               "type": "pdf",
               "state": {
                 "file": "2. Original Articles/ML-AI/ML cơ bản.pdf",
-                "page": 264,
-                "left": -14,
-                "top": 408,
-                "zoom": 1.0649509803921569
+                "page": 1,
+                "zoom": 1
               }
             }
           }
@@ -194,57 +201,58 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "160d7b7e73e68676",
+  "active": "f270e1a18545f01b",
   "lastOpenFiles": [
-    "3. Notes/Data-ML-AI/Truncated SVD.md",
-    "3. Notes/Math/Singular Value Decomposition.md",
-    "2. Original Articles/ML-AI/ML cơ bản.pdf",
-    "3. Notes/Math/Trị riêng và vector riêng.md",
-    "3. Notes/Math/Chéo hóa ma trận.md",
-    "Untitled.md",
-    "3. Notes/Math/Dot products.md",
-    "3. Notes/Math/Frobenius Norm.md",
-    "3. Notes/Math/Hàm Bassel.md",
-    "3. Notes/Math/Định thức.md",
-    "3. Notes/Math/Hệ phương trình tuyến tính.md",
-    "3. Notes/Math/Kỳ vọng.md",
-    "3. Notes/Math/Xác suất.md",
-    "2. Original Articles/ML-AI/2306.12418v3.pdf",
-    "2. Original Articles/ML-AI/2306.12418v3.pdf.crdownload",
-    "2. Original Articles/ML-AI/12.pdf",
-    "2. Original Articles/ML-AI/12.pdf.crdownload",
-    "3. Notes/Math/Ma trận trực giao.md",
-    "_static/Pasted image 20240925065807.png",
-    "3. Notes/Math/Ma trận nghịch đảo.md",
-    "Ma trận nghịch đảo.md",
-    "3. Notes/Data-ML-AI/Hệ phương trình tuyến tính.md",
-    "3. Notes/Data-ML-AI/Định thức.md",
-    "Gradient.md",
-    "Hệ phương trình tuyến tính.md",
-    "2. Original Articles/ML-AI/73954.pdf",
-    "2. Original Articles/ML-AI/Deep_learning_foundation.pdf",
-    "Định thức.md",
-    "3. Notes/Data-ML-AI/Subspace embedding.md",
-    "3. Notes/Data-ML-AI/Single layer networks - Classification.md",
-    "3. Notes/Paper/Randomized Linear Algebra.md",
-    "3. Notes/Data-ML-AI/Transformers - Attention.md",
-    "3. Notes/Data-ML-AI/Word embedding - NLP.md",
-    "3. Notes/Math/Ma trận hiệp phương sai.md",
-    "_static/Pasted image 20240920112057.png",
-    "3. Notes/Paper",
-    "3. Notes/Math",
-    "_static/Pasted image 20240903160313.png",
-    "2. Original Articles/English/Cambridge Grammar for IELTS.pdf",
-    "_static/Pasted image 20240901083817.png",
-    "_static/Pasted image 20240829065726.png",
-    "_static/Pasted image 20240828162137.png",
-    "_static/Pasted image 20240828162050.png",
-    "_static/Pasted image 20240828160208.png",
-    "_static/Pasted image 20240828160055.png",
-    "_static/Pasted image 20240828071959.png",
+    "test/_templates/Basic note.md",
+    "test/_templates",
+    "test/_static/extension_attributes.xml",
+    "test/_static/extension_attributes 2.xml",
+    "test/_static/extension_attributes 1.xml",
+    "test/_static/Pasted image 20240925065807.png",
+    "test/_static/Pasted image 20240920112057.png",
+    "test/_static/Pasted image 20240903160313.png",
+    "test/_static/Pasted image 20240901083817.png",
+    "test/_static/Pasted image 20240829065726.png",
+    "test/_static/Pasted image 20240828162137.png",
+    "test/_static/Pasted image 20240828162050.png",
+    "test/_static/Pasted image 20240828160055.png",
+    "test/_static/Pasted image 20240828160208.png",
+    "test/_static/Pasted image 20240828071959.png",
+    "test/_static",
+    "test/3. Notes/Trà/Đạo.md",
+    "test/3. Notes/Trà/Trà.md",
+    "test/3. Notes/Trà/Nước.md",
+    "test/3. Notes/Trà/Trà khí.md",
+    "test/3. Notes/Trà/Trà cụ.md",
+    "test/3. Notes/Trà",
+    "test/3. Notes/Paper/Randomized Linear Algebra.md",
+    "test/3. Notes/Paper",
+    "test/3. Notes/Math/Định thức.md",
+    "test/3. Notes/Math/Đại số tuyến tính.md",
+    "test/3. Notes/Math/Xác suất biến rời rạc.md",
+    "test/3. Notes/Math/Xác suất Bayes.md",
+    "test/3. Notes/Math/Xác suất.md",
+    "test/3. Notes/Math/Tích chập (convolution).md",
+    "test/3. Notes/Math/Trị riêng và vector riêng.md",
+    "test/3. Notes/Math/Phương sai.md",
+    "test/3. Notes/Math/Singular Value Decomposition.md",
+    "test/3. Notes/Math/Phép hiệu chỉnh Bessel.md",
+    "test/3. Notes/Math/Phân phối mũ (The Exponential Family).md",
+    "test/3. Notes/Math/Phân phối chuẩn (Gaussian).md",
+    "test/3. Notes/Math/Phân phối biên (Marginal distribution).md",
+    "test/3. Notes/Math/Phân phối Von Mises.md",
+    "test/3. Notes/Math/Periodic Variables (biến tuần hoàn).md",
+    "test/3. Notes/Math/Nhân ma trận.md",
+    "test/3. Notes/Math/Ma trận.md",
+    "test/3. Notes/Math/Ma trận trực giao.md",
+    "test/3. Notes/Math/Ma trận nghịch đảo.md",
+    "test/3. Notes/Math",
+    "test/3. Notes/English/Grammar",
+    "test/3. Notes/English/Training",
     "Untitled.canvas"
   ]
 }
