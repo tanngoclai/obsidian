@@ -1,0 +1,10 @@
+- Không dùng được plugin với:
+	- Final method
+	- Final class
+	- Method không public (private, protect)
+	- Static method
+	- `__construct, __destruct` (`_construct` vẫn được)
+	- Virtual class (Virtual type trong di.xml)
+	- Object tạo trước khi chạy `Magento\Framework\Interception`
+	- Object implement `Magento\Framework\ObjectManager\NoninterceptableInterface`
+- Plugin sort order không phân biệt before, after, around khi dùng biến callable. Sort order nhỏ sẽ thực hiện trước. Xem thêm ví dụ: [Plugins | Commerce PHP Extensions (adobe.com)](https://developer.adobe.com/commerce/php/development/components/plugins/).
