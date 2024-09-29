@@ -1,2 +1,0 @@
-- Thay vì inject class như bình thường thì dùng di.xml -> inject `<class>/Proxy` để khi nào hàm của class injected class được gọi thì mới tạo class đấy.
-- Dùng khi tạo luôn injected class từ constructor gây tốn nhiều resource mà ít khi dùng đến.

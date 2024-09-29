@@ -22,9 +22,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "33daa91212b8db1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f270e1a18545f01b",
+  "active": "33daa91212b8db1f",
   "lastOpenFiles": [
     "test/_templates/Basic note.md",
     "test/_templates",
